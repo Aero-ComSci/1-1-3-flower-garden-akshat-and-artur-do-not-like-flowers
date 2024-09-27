@@ -13,6 +13,10 @@ This code creates a drawing of different flowers based on user input. It takes a
 
 Here is the link to a screen recording of our project: [https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1Ti8LXe2-A7AiXB_wnaL_ia_dULorR0ou/view?usp=sharing)
 
+## Chat-GPT Assistance 
+We used some code to help with the "parse" function, a part of the tokenization for our flowers, which were lines 122 - 139.
+
+
 Here are some results from different inputs of flowers: 
 
 ![Screenshot 2024-09-16 144049](https://github.com/user-attachments/assets/873e70d6-0559-404f-970e-1e74848459bf)
